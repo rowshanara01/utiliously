@@ -1,0 +1,3 @@
+# utilious
+
+Utilious is a powerful, lightweight utility library designed to streamline common JavaScript operations with a focus on performance, scalability, and simplicity. Whether you're working with complex objects, arrays, or deep data structures, Utilious provides an extensive set of functions to help you efficiently manipulate and manage your data. With a modular design and clear documentation, Utilious makes it easy to integrate just the utilities you need, ensuring your codebase stays clean and optimized. Perfect for developers who want a reliable and efficient tool set for everyday coding tasks.
